@@ -1,0 +1,9 @@
+As poker game would be played between many people simultaneously it requires parallel processing.
+
+I'll use my models.py file for all the backend schema's and stuff
+
+I'll implement priority queues for the queuing part.
+
+I'll also run a notifier for checks up and down.
+
+
